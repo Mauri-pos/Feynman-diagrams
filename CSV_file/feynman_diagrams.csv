@@ -1,0 +1,207 @@
+Code,Description
+10000001,gg → g → qq̅ 
+10000002,gg → q → qq̅
+10000003,gg → g → q(→g)q̅
+10000004,gg → g (g→qq̅)
+10000005,gg → q (→g) → qq̅
+10000006,gg → gbb̅
+10000011,gg → g → bb̅
+10000012,gg → q → bb̅
+10000013,gg → g → b(→g)b̅
+10000014,gg → g (g→bb)
+10000015,gg → q (→g) → bb̅
+10100001,qq̅ → g → qq̅
+10100002,qq̅ → g → qq̅
+10100003,qq̅ → g (→g) → qq̅ 
+10100004,qq̅ → g → q(→g)q̅	 
+10100011,qq̅ → g → bb̅
+10100012,bb̅ → g → bb̅
+10100013,bb̅ → g (→g) → bb̅
+10100014,qq̅ → g → b(→g)b̅
+10200001,gq̅ → q (g→qq̅)
+10200002,gq̅ → qqq̅
+10200003,gq̅ → q̅ (g→qq̅)
+10200004,gq̅ → qq̅q̅
+10200011,gq → q (g→bb̅)
+10200012,gq → qbb̅
+10200013,gq̅ → q̅ (g→bb̅)
+10200014,gq̅ → q̅bb̅
+11101001,pp(gg)→g→bb̅
+19001001,cg → c → cZ
+19001002,qq̅ → cc̅ Z with gluon splitting
+19001003,qq̅ → cc̅ Z with Z radiation
+19001004,gg → cc̅ Z with Z radiation
+20000001,ep scatter via γ on quark
+20000002,ep scatter via γ on gluon	 
+21000001,ep scatter via γ on proton	 
+30000001,ll → γ → ff	 
+30200001,ll → γ → qq g	 
+31000001,ee → γ → ee (t-channel)	 
+31000002,e-e+ → γ → e-e+ (t-channel)	 
+31001001,e+e-→γ*/Z0→bb̅	 
+32000001,ee → Z0 → ff	 
+40000001,pp(gg)→g→Z0+jet	 
+40000002,pp(gg)→g→Z0+c-jet	 
+40000003,pp→qq̅→Z0 with intrinsic charm in	 
+40000004,pp→qq̅→Z0 with cc̅ from gluon radiation	 
+40000005,pp→qq̅→Z0 with cc̅ in double parton scatter	 
+40000006,pp→qq̅→Z0→μ+ μ-	 
+40000007,pp→gg→cc̅ with Z0radiation	 
+40000010,pp→qq̅→Z0→μ+ μ-	 
+40000011,pp→qg→Z0→μ+ μ- + quark jet	 
+40000012,pp→qq̅→Z0→μ+ μ- + gluon jet	 
+40000101,Z + γ (t-channel)	 
+40000102,Z + γ (u-channel)	 
+40000104,Z + γ from FSR	 
+40000111,W+ + γ (t-channel)	 
+40000112,W+ + γ (u-channel)	 
+40000113,W+ + γ (s-channel)	 
+40000114,W+ + γ from FSR	 
+40000121,W- + γ (t-channel)	 
+40000122,W- + γ (u-channel)	 
+40000123,W- + γ (s-channel)	 
+40000124,W- + γ from FSR	 
+40000141,W/Z + γ (t-channel)	 
+40000142,W/Z + γ (u-channel)	 
+40000144,W/Z + γ from FSR	 
+40000201,qq̅ → Z/γ → W+W-	 
+40000202,qq̅ → W+W- t-channel	 
+40001001,pp(gg)→g→Z0+jet (with beam energy)	 
+40001002,pp(gg)→g→Z0+c-jet (with beam energy)	 
+41000001,pp→gs→W-c	 
+41000002,pp→ud̅→W+→μ+ νμ	 
+41000003,pp→ud̅→W+ with intrinsic charm in	 
+41000004,pp→ud̅→W+ with cc̅ from gluon radiation	 
+41000005,pp→ud̅→W+ with cc̅ in double parton scatter	 
+41001001,pp→gs→W-c (with beam energy)	 
+41001002,pp→ud̅→W+→μ+ νμ (with beam energy)	 
+42000001,Gluon fusion Higgs production via top	 
+42000002,Gluon fusion Higgs production	 
+42100001,Higgs strahlung from W-	 
+42100002,Higgs strahlung from W+	 
+42100003,Higgs strahlung from W	 
+42100004,Higgs strahlung from Z0	 
+42300001,Associated Higgs production	 
+42300002,Associated Higgs production with top	 
+42600001,H → WW	 
+42600002,H → ZZ	 
+42700001,H → γ γ (via top)	 
+42700002,H → γ γ	 
+42800001,H top loop correction	 
+42800002,H stop loop correction	 
+42800003,H stop loop correction	 
+43000001,Drell Yan process with generic leptons	 
+43000002,Drell Yan process with electrons	 
+43000003,Drell Yan process with muons	 
+43000004,Drell Yan process with taus	 
+43001003,Drell Yan process with muons (with beam energy)	 
+50100101,Box diagram for K0 mixing with intermediate quarks	 
+50100102,Box diagram for K0 mixing with intermediate W bosons	 
+50201000,non-CP violating leading order EDM diagram for quark	 
+50201001,CP violating next-to-leading order EDM diagram for quark	 
+50201002,non-CP violating next-to-leading order EDM diagram for quark (incl Z)	 
+50201003,CP non-violating next-to-leading order EDM diagram for quark	 
+50201004,CP non-violating next-to-leading order EDM diagram for quark	 
+51000001,D+ → φ π- tree diagram	 
+51100001,D- → π- μ+ μ- in SM via Box	 
+51100101,Box diagram for D0 mixing with intermediate quarks	 
+51100102,Box diagram for D0 mixing with intermediate W bosons	 
+51200001,D+ → φ π- penguin diagram	 
+52000001,Tree diagram B0→K+π- in SM	 
+52000002,Tree diagram B0→π+π- in SM	 
+52000004,Bs0 → J/ψ φ	 
+52000005,B̅s0 → J/ψ φ	 
+52000006,B- → D̅0 K-	 
+52000007,B- → D0 K-	 
+52000008,B̅s0 → J/ψ h+h-	 
+52000011,Tree diagram Bs0→K+K- in SM	 
+52000012,Tree diagram Bs0→π+K- in SM	 
+52000101,Tree diagram B+c→J/ψ τ ντ in SM	 
+52100001,Box diagram of Bs0 → μ+ μ- in the Standard Model	 
+52100002,B0 → K*0 μ+ μ- in SM via Box	 
+52100003,Bs0 → φ μ+ μ- in SM via Box	 
+52100004,Λb0 → Λ0 μ+ μ- in SM via Box	 
+52100101,Box diagram for Bs0 mixing with intermediate quarks	 
+52100102,Box diagram for Bs0 mixing with intermediate W bosons	 
+52100103,Box diagram for B0 mixing with intermediate quarks	 
+52100104,Box diagram for B0 mixing with intermediate W bosons	 
+52101001,Phases in Bs0 → J/ψ φ	 
+52101002,Phases in B+/- → D K+/- → [f]D K+/-	 
+52101003,Phases in Bs0 → J/ψ h+ h-	 
+52200001,Penguin diagram of Bs0 → μ+ μ- in the Standard Model	 
+52200002,b → s γ in SM with mesons	 
+52200003,B0 → K*0 μ+ μ- in SM via Penguin	 
+52200004,b → γ s in SM	 
+52200005,b → s l+l- in SM	 
+52200101,Penguin diagram for Bs0 → φ φ	 
+52200102,Photonic color-suppressed Penguin diagram for Bs0 → K+ K-	 
+52200103,Photonic color-suppressed Penguin diagram for Bs0 → π+ K-	 
+52200104,Photonic color-suppressed Penguin diagram for B0 → K+ π-	 
+52200105,Photonic color-suppressed Penguin diagram for B0 → π+ π-	 
+52200106,Gluonic Penguin diagram for Bs0 → K+ K-	 
+52200107,Gluonic Penguin diagram for Bs0 → π+ K-	 
+52200108,Gluonic Penguin diagram for B0 → K+ π-	 
+52200109,Gluonic Penguin diagram for B0 → π+ π-	 
+52200111,Higher order tree decay for Bs0 → π+ π-	 
+52200112,Penguin diagram for B0 → K+ K-	 
+52200113,Internal tree diagram for Bs0 → π+ π-	 
+52200114,Internal tree diagram for B0 → K+ K-	 
+52300001,Penguin diagram of Bs0 → μ+ μ- in 2HDM	 
+52300002,Penguin diagram of Bs0 → μ+ μ- in SUSY	 
+52300003,B0 → K*0 μ+ μ- in SUSY	 
+52300004,b → γ s in 2HDM	 
+52300005,b → s l+l- in 2HDM	 
+52300006,b → s l+l- in SUSY	 
+52300007,Box diagram of Bs0 → μ+ μ- in MSSM	 
+52300008,Box diagram of Bs0 → μ+ μ- in MSSM with charged Higgs	 
+52300101,Tree diagram B+c→J/ψ τ ντ with charged Higgs	 
+53002001,μ→3e diagram in SM	 
+53002002,main background to μ→3e diagram in SM	 
+53002101,τ→3μ diagram in SM	 
+53002102,main background to τ→3μ diagram in SM	 
+53101001,CP violating next-to-leading order EDM diagram for leptons	 
+53101003,CP non-violating next-to-leading order EDM diagram for leptons	 
+53101004,CP non-violating next-to-leading order EDM diagram for leptons	 
+53101005,CP non-violating next-to-leading order EDM diagram for leptons	 
+60100001,Single top in tW channel	 
+60100002,Single top in s channel	 
+60100003,Single top t-channel associated	 
+60100004,Single top t-channel	 
+71200001,μ→3e diagram in SUSY	 
+71200002,τ→3μ diagram in SUSY	 
+71200003,τ→3μ diagram in MSSM	 
+81002001,μ→3e with Z prime	 
+81002101,τ→3μ with Z prime	 
+85002001,μ→3e penguin diagram in a little Higgs model	 
+85002002,μ→3e penguin diagram in a little Higgs model	 
+85002003,μ→3e penguin diagram in a little Higgs model	 
+85002004,μ→3e box diagram in a little Higgs model	 
+85002101,τ→3μ penguin diagram in a little Higgs model	 
+85002102,τ→3μ penguin diagram in a little Higgs model	 
+85002103,τ→3μ penguin diagram in a little Higgs model	 
+85002104,τ→3μ box diagram in a little Higgs model	 
+86002001,μ→3e penguin diagram with leptoquark	 
+86002002,μ→3e penguin diagram with leptoquark	 
+86002003,μ→3e box diagram with leptoquark	 
+86002101,τ→3μ penguin diagram with leptoquark	 
+86002102,τ→3μ penguin diagram with leptoquark	 
+86002103,τ→3μ box diagram with leptoquark	 
+89000001,WIMP scatter via Z0 on nucleus	 
+90000001,muon decay	 
+90000002,neutron beta decay	 
+90000003,τ- → μ- ντ ν̅μ	 
+90000004,τ- → e- ντ ν̅e	 
+90000005,QED correction on e	 
+90000006,QED charge screening	 
+90000007,QCD color screening	 
+90000008,QCD color anti-screening	 
+90000009,QCD color anti-screening	 
+90000010,QCD radiation	 
+90000011,QED radiation	 
+90000101,π+ → μ+νμ (e+νe)	 
+91000001,Generic qq→qq diagram with blop	 
+91000002,Generic qq→γ diagram with blop	 
+91000003,Generic qq→g diagram with blop	 
+91000101,Generic qq→qq diagram with blop	 
+91000102,Generic qq→γ diagram with blop	 
+91000103,Generic qq→g diagram with blop	 
